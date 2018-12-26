@@ -18,6 +18,7 @@ public class JavaApplication2 {
         System.out.println("new xx");
         
         System.out.println("mmm");
+        System.out.println("mm");
         // TODO code application logic here
     }
     
